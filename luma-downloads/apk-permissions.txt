@@ -1,0 +1,5 @@
+package: com.luma.pythoncamera
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE' maxSdkVersion='28'
+permission: com.luma.pythoncamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission: name='com.luma.pythoncamera.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'

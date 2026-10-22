@@ -1,17 +1,27 @@
 {
   "application": "LUMA Python Camera",
   "package": "com.luma.pythoncamera",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "version_code": 2,
   "android_min_api": 24,
   "abis": [
     "arm64-v8a",
     "x86_64"
   ],
-  "bytes": 42739825,
-  "sha256": "5f5e263ac9664a15cc40d2ad7f601a8c8e4955b8fca874184dbdf5c476166a2e",
-  "python_core_tests_passed": 8,
+  "bytes": 67161171,
+  "sha256": "c6c06027eec650dc962c2529db2a153762b13946c7d20c8f0524d72ccca2f14c",
+  "food_candidates_supported": 22,
+  "nutrition_records": 34,
+  "nutrition_basis_g": 100,
+  "nutrition_source": "USDA SR28 (2015), raw edible portion",
+  "offline_model": "MobileNet V2 float32, ImageNet 1001 labels",
+  "model_sha256": "ff5cb7f9e62c92ebdad971f8a98aa6b3106d82a64587a7787c6a385c9e791339",
+  "python_tests_passed": 22,
   "qr_decoder_jvm_tests_passed": 3,
-  "signature": "APK v2; project-specific local preview certificate",
-  "emulator_validation": "not completed: no KVM, both software-emulated systems did not reach package-service readiness",
-  "physical_device_validation": "not performed"
+  "food_input_jvm_tests_passed": 2,
+  "desktop_model_fixture_checks_passed": 3,
+  "packaged_python_data_check": "passed",
+  "signature": "APK v2; same project preview certificate as v0.1.0",
+  "emulator_validation": "not completed: host has no KVM; Android package service did not become ready",
+  "physical_device_validation": "not performed; camera recognition and offline TTS require device testing"
 }

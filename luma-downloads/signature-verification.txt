@@ -1,0 +1,18 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v3.2 scheme (APK Signature Scheme v3.2): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+V2 Signer: certificate DN: CN=LUMA Python Preview, O=LUMA
+V2 Signer: certificate SHA-256 digest: e751c065b92a556b3f3dacf4ccedc0d1971a8744e15ddacdbea6ebb6cdd18cdb
+V2 Signer: certificate SHA-1 digest: a5d17bec384612ef7641e01cc45312ce631fc000
+V2 Signer: certificate MD5 digest: 5b94bb2e70e2505c6a5927acc41551ab
+V2 Signer: key algorithm: RSA
+V2 Signer: key size (bits): 3072
+V2 Signer: public key SHA-256 digest: 63a5ce8c6c0ea098d48a25a2313204980f7d8464679f769439ea020ea8275eb8
+V2 Signer: public key SHA-1 digest: ec10b08b4598383ec08e09bfb8655526b8c68cb5
+V2 Signer: public key MD5 digest: 07fa1962e1f040e4f7bf80d50bc172e9

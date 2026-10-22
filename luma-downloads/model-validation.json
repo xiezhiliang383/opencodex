@@ -1,0 +1,30 @@
+{
+  "checks_passed": 3,
+  "scope": "CPU desktop model inference; not Android hardware validation",
+  "results": [
+    {
+      "fixture": "fruits.jpg",
+      "top": {
+        "label": "lemon",
+        "score": 0.9631399512290955
+      },
+      "state": "candidate"
+    },
+    {
+      "fixture": "burger.jpg",
+      "top": {
+        "label": "cheeseburger",
+        "score": 0.8087258338928223
+      },
+      "state": "unsupported"
+    },
+    {
+      "fixture": "dog.jpg",
+      "top": {
+        "label": "Samoyed",
+        "score": 0.7669887542724609
+      },
+      "state": "unsupported"
+    }
+  ]
+}
