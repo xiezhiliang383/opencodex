@@ -1,0 +1,17 @@
+{
+  "application": "LUMA Python Camera",
+  "package": "com.luma.pythoncamera",
+  "version": "0.1.0",
+  "android_min_api": 24,
+  "abis": [
+    "arm64-v8a",
+    "x86_64"
+  ],
+  "bytes": 42739825,
+  "sha256": "5f5e263ac9664a15cc40d2ad7f601a8c8e4955b8fca874184dbdf5c476166a2e",
+  "python_core_tests_passed": 8,
+  "qr_decoder_jvm_tests_passed": 3,
+  "signature": "APK v2; project-specific local preview certificate",
+  "emulator_validation": "not completed: no KVM, both software-emulated systems did not reach package-service readiness",
+  "physical_device_validation": "not performed"
+}
